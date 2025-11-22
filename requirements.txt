@@ -1,0 +1,8 @@
+Required Arduino Libraries:
+
+1.  Adafruit GFX Library
+2.  Adafruit SSD1306
+3.  Adafruit Fingerprint Sensor Library
+4.  Blynk (Legacy or Blynk v1 Esp32)
+5.  ESP32 Preferences (comes built-in)
+6.  WiFi (built-in)
